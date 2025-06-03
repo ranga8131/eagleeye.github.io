@@ -1,31 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-06-03T14:35:59.6398887+05:30" Branch="EagleEye-v1" Commit="a28918988368f370cf70fc8918418cece2a27951">
+<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-06-03T15:54:14.4906683+05:30" Branch="EagleEye-v1" Commit="a28918988368f370cf70fc8918418cece2a27951">
     <Messages>Publishing target HTML5...
 Connecting...
+From https://github.com/ranga8131/test2
+ * [new branch]      EagleEye-v1 -&gt; origin/EagleEye-v1
 Already up to date.
 Downloading log...
 Uploading changed files...
 Uploading Resources/Scripts/require.config.js... succeeded.
-Uploading Data/SearchTopic_Chunk0.js... succeeded.
-Uploading Data/SearchStem_Chunk0.js... succeeded.
-Uploading Data/SearchPhrase_Chunk0.js... succeeded.
 Uploading Data/HelpSystem.xml... succeeded.
 Uploading Data/HelpSystem.js... succeeded.
+Uploading Content/D-Reference/Tips.htm... succeeded.
+Uploading Content/D-Reference/FAQs.htm... succeeded.
+Uploading Content/D-Reference/Company.htm... succeeded.
+Uploading Content/C-Procedure-Topics/Procedures.htm... succeeded.
+Uploading Content/C-Procedure-Topics/Procedure3.htm... succeeded.
+Uploading Content/C-Procedure-Topics/Procedure2.htm... succeeded.
+Uploading Content/C-Procedure-Topics/Procedure1.htm... succeeded.
+Uploading Content/B-Feature-Topics/Features.htm... succeeded.
+Uploading Content/B-Feature-Topics/Feature3.htm... succeeded.
+Uploading Content/B-Feature-Topics/Feature2.htm... succeeded.
+Uploading Content/B-Feature-Topics/Feature1.htm... succeeded.
+Uploading Content/A-Introduction-Topics/Whats-New.htm... succeeded.
+Uploading Content/A-Introduction-Topics/More-Information.htm... succeeded.
 Uploading Content/A-Introduction-Topics/Getting-Started.htm... succeeded.
+Uploading Content/Search.htm... succeeded.
+Uploading Content/Home.htm... succeeded.
 Uploading Default.mcwebhelp... succeeded.
 Removing old files...
 Uploading log...
 Checking in: Resources/Scripts/require.config.js
-Checking in: Data/SearchTopic_Chunk0.js
-Checking in: Data/SearchStem_Chunk0.js
-Checking in: Data/SearchPhrase_Chunk0.js
 Checking in: Data/HelpSystem.xml
 Checking in: Data/HelpSystem.js
+Checking in: Content/D-Reference/Tips.htm
+Checking in: Content/D-Reference/FAQs.htm
+Checking in: Content/D-Reference/Company.htm
+Checking in: Content/C-Procedure-Topics/Procedures.htm
+Checking in: Content/C-Procedure-Topics/Procedure3.htm
+Checking in: Content/C-Procedure-Topics/Procedure2.htm
+Checking in: Content/C-Procedure-Topics/Procedure1.htm
+Checking in: Content/B-Feature-Topics/Features.htm
+Checking in: Content/B-Feature-Topics/Feature3.htm
+Checking in: Content/B-Feature-Topics/Feature2.htm
+Checking in: Content/B-Feature-Topics/Feature1.htm
+Checking in: Content/A-Introduction-Topics/Whats-New.htm
+Checking in: Content/A-Introduction-Topics/More-Information.htm
 Checking in: Content/A-Introduction-Topics/Getting-Started.htm
+Checking in: Content/Search.htm
+Checking in: Content/Home.htm
 Checking in: Default.mcwebhelp
 Checking in: HTML5.4.log.zip
 To https://github.com/ranga8131/test2.git
-   b0e3f3c..1d5e1ac  master -&gt; master
+   1d5e1ac..66a8064  master -&gt; master
 Publish completed successfully.
 Publish complete.
 Saving log to "C:\Users\rannan\ranga4\Eagle Eye1\Output\rannan\HTML5\HTML5.mclog"
