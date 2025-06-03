@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-06-03T16:06:28.2965288+05:30" Branch="EagleEye-v1" Commit="fedecb5be6828e14e09217247cdfb84594efd226">
+<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-06-03T16:22:21.5379538+05:30" Branch="EagleEye-v1" Commit="6eac6c05218917188c5cc038bc1b547d6e857eb0">
     <Messages>Publishing target HTML5...
 Connecting...
 Already up to date.
@@ -23,9 +23,12 @@ Uploading Content/A-Introduction-Topics/Whats-New.htm... succeeded.
 Uploading Content/A-Introduction-Topics/More-Information.htm... succeeded.
 Uploading Content/A-Introduction-Topics/Getting-Started.htm... succeeded.
 Uploading Content/Search.htm... succeeded.
-Uploading Content/Home.htm... succeeded.
 Uploading Default.mcwebhelp... succeeded.
+Uploading Content/index.htm... succeeded.
 Removing old files...
+Removing Content/Home.htm
+Deleting: file:///C:/Users/rannan/ranga4/Content/Home.htm
+Recycling
 Uploading log...
 Checking in: Resources/Scripts/require.config.js
 Checking in: Data/HelpSystem.xml
@@ -45,11 +48,12 @@ Checking in: Content/A-Introduction-Topics/Whats-New.htm
 Checking in: Content/A-Introduction-Topics/More-Information.htm
 Checking in: Content/A-Introduction-Topics/Getting-Started.htm
 Checking in: Content/Search.htm
-Checking in: Content/Home.htm
 Checking in: Default.mcwebhelp
+Adding: Content/index.htm
+Checking in: Content/index.htm
 Checking in: HTML5.4.log.zip
 To https://github.com/ranga8131/test2.git
-   66a8064..4d3686f  master -&gt; master
+   4d3686f..f9a334b  master -&gt; master
 Publish completed successfully.
 Publish complete.
 Saving log to "C:\Users\rannan\ranga4\Eagle Eye1\Output\rannan\HTML5\HTML5.mclog"
