@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-06-03T15:54:14.4906683+05:30" Branch="EagleEye-v1" Commit="a28918988368f370cf70fc8918418cece2a27951">
+<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-06-03T16:06:28.2965288+05:30" Branch="EagleEye-v1" Commit="fedecb5be6828e14e09217247cdfb84594efd226">
     <Messages>Publishing target HTML5...
 Connecting...
-From https://github.com/ranga8131/test2
- * [new branch]      EagleEye-v1 -&gt; origin/EagleEye-v1
 Already up to date.
 Downloading log...
 Uploading changed files...
@@ -51,7 +49,7 @@ Checking in: Content/Home.htm
 Checking in: Default.mcwebhelp
 Checking in: HTML5.4.log.zip
 To https://github.com/ranga8131/test2.git
-   1d5e1ac..66a8064  master -&gt; master
+   66a8064..4d3686f  master -&gt; master
 Publish completed successfully.
 Publish complete.
 Saving log to "C:\Users\rannan\ranga4\Eagle Eye1\Output\rannan\HTML5\HTML5.mclog"
