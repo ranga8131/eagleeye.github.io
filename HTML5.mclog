@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-06-03T14:35:59.6398887+05:30" Branch="EagleEye-v1" Commit="a28918988368f370cf70fc8918418cece2a27951">
+    <Messages>Publishing target HTML5...
+Connecting...
+Already up to date.
+Downloading log...
+Uploading changed files...
+Uploading Resources/Scripts/require.config.js... succeeded.
+Uploading Data/SearchTopic_Chunk0.js... succeeded.
+Uploading Data/SearchStem_Chunk0.js... succeeded.
+Uploading Data/SearchPhrase_Chunk0.js... succeeded.
+Uploading Data/HelpSystem.xml... succeeded.
+Uploading Data/HelpSystem.js... succeeded.
+Uploading Content/A-Introduction-Topics/Getting-Started.htm... succeeded.
+Uploading Default.mcwebhelp... succeeded.
+Removing old files...
+Uploading log...
+Checking in: Resources/Scripts/require.config.js
+Checking in: Data/SearchTopic_Chunk0.js
+Checking in: Data/SearchStem_Chunk0.js
+Checking in: Data/SearchPhrase_Chunk0.js
+Checking in: Data/HelpSystem.xml
+Checking in: Data/HelpSystem.js
+Checking in: Content/A-Introduction-Topics/Getting-Started.htm
+Checking in: Default.mcwebhelp
+Checking in: HTML5.4.log.zip
+To https://github.com/ranga8131/test2.git
+   b0e3f3c..1d5e1ac  master -&gt; master
+Publish completed successfully.
+Publish complete.
+Saving log to "C:\Users\rannan\ranga4\Eagle Eye1\Output\rannan\HTML5\HTML5.mclog"
+</Messages>
+    <Warnings />
+    <Errors />
+</MadCapLog>
